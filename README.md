@@ -7,7 +7,7 @@ JWT Authentication for Asp.Net Web Api
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-This is a webapi project written in visual studio and we will secure endpoint using [JWT](jwt.io).
+This is a webapi project written in visual studio and we will secure endpoint using JWT.
 
 Basically, a JWT token look like:
 
