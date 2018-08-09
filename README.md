@@ -35,9 +35,3 @@ JWT token has three sections:
 
 ## Dependencies
 - Updated to use Latest version of  [System.IdentityModel.Tokens.Jwt  version=5.1.4 ](https://www.nuget.org/packages/System.IdentityModel.Tokens.Jwt/5.2.0-preview1-408290725)
-
-
-
-## How to Use It ?
-- Clone or download the repository
-- You can find more details at my blog [SECURING WEBAPI USING JSON WEB TOKEN(JWT) IN C#](http://www.decatechlabs.com/how-to-secure-webapi-using-json-web-tokenjwt)
